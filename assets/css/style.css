@@ -1,0 +1,10 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100;0,8..144,200;0,8..144,400;1,8..144,100&family=Roboto+Slab:wght@100&family=Roboto:ital,wght@0,400;1,300&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Serif', serif;
+    font-family: 'Roboto Slab', serif;
+}
+ 
